@@ -18,9 +18,6 @@ Pursuing a degree in Systems Analysis and Development, I am a Technology profess
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Guilhermemury&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Guilhermemury&icon=5&color=0)](https://visitcount.itsvg.in)
 
