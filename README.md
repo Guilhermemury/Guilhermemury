@@ -32,13 +32,13 @@ Sou um profissional focado em Segurança da Informação, com experiência em an
 ---
 
 ## 🎓 Cursos, Certificações & Formação
-- *Análise e Desenvolvimento de Sistemas* – Graduação em andamento
+- *Análise e Desenvolvimento de Sistemas*: Graduação em andamento
 <br>
 <br>
-- *CC* – (ISC)²  
-- *Novo Pentest Profissional* – DESEC Security
-- *Pentest Experience* - DESEC Security
-- *DCPT In Progress* - DESEC Security
+- *(ISC)² CC*  
+- *DESEC Security: Novo Pentest Profissional*
+- *DESEC Security: Pentest Experience*
+- *DESEC Security: DCPT In Progress*
 
 
 
