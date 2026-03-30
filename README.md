@@ -24,11 +24,9 @@ Profissional de Segurança da Informação com forte atuação em Red Team Opera
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
-| **Pentest & C2** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square) `Cobalt Strike` `HAVOC` `Nmap` `Nessus` |
-| **Exploitation & AD** | `Mimikatz` `BloodHound` `Impacket` `NetExec` `Responder` |
-| **AppSec & Cloud** | ![Snyk](https://img.shields.io/badge/Snyk-700578?style=flat-square&logo=snyk&logoColor=white) `Qualys` `Orca Security` `OWASP ZAP` |
-| **Forensics & Net** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) `Volatility` `Autopsy` |
-| **Methodologies** | `MITRE ATT&CK` `OWASP` `PTES` `OSSTMM` `NIST` |
+| **Pentest & C2** | ![Burp](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square) ![Cobalt](https://img.shields.io/badge/Cobalt_Strike-darkred?style=flat-square) ![HAVOC](https://img.shields.io/badge/HAVOC-grey?style=flat-square) ![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square) ![Nessus](https://img.shields.io/badge/Nessus-002E5D?style=flat-square) |
+| **Exploitation & AD** | ![Mimikatz](https://img.shields.io/badge/Mimikatz-lightgrey?style=flat-square) ![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square) ![Impacket](https://img.shields.io/badge/Impacket-black?style=flat-square) ![NetExec](https://img.shields.io/badge/NetExec-orange?style=flat-square) ![Responder](https://img.shields.io/badge/Responder-purple?style=flat-square) |
+| **Methodologies** | ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP-ffffff?style=flat-square&logo=owasp&logoColor=black) ![NIST](https://img.shields.io/badge/NIST-blue?style=flat-square) |
 
 ---
 
