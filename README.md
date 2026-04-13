@@ -51,7 +51,7 @@ I actively contribute to the cybersecurity community through vulnerability resea
 
 ## 🎓 Courses, Certifications & Education
 
-- *B.S. in Analysis and Systems Development (In Progress)*
+- *B.S. in Analysis and Systems Development*
 - *DESEC Security: **DCPT** | DESEC Certified Penetration Tester*
 - *CyberWarfare: **CRTA** | Certified Red Team Analyst*
 - *(ISC)² **CC** | Certified in Cybersecurity*
