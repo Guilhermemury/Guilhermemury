@@ -6,17 +6,27 @@
 
 ---
 
-## 🔐 Sobre Mim
+## 🔐 About Me
 
-Profissional de Segurança da Informação com forte atuação em Red Team Operations e Pentesting. Minha abordagem ofensiva é diferenciada por um background sólido em defesa (Blue Team/SOC), onde atuei na liderança de resposta a incidentes e monitoramento. Essa visão híbrida me permite simular ataques com maior precisão estratégica e foco no negócio.
+Information Security professional with a strong focus on Red Team Operations and Penetration Testing. My offensive approach is enhanced by a solid background in defense (Blue Team/SOC), where I led incident response and monitoring efforts. This hybrid perspective allows me to simulate attacks with higher strategic precision and a business-centric focus.
 
 ---
 
-## 💼 Habilidades Técnicas
+## 🛡️ Research & CVEs
 
-- **Segurança Ofensiva**: Pentest (Web/Infra), Exploração de Vulnerabilidades, Movimentação Lateral, Active Directory Attacks. 
-- **Defesa & Gestão**: Gestão de Vulnerabilidades, Hardening, Análise de Logs. 
-- **Cloud & DevSecOps**: Segurança em nuvem e integração de ferramentas de análise (SAST/DAST).  
+I actively contribute to the cybersecurity community through vulnerability research and responsible disclosure.
+
+* **CVE-2025-67877** – Vulnerability discovered through manual source code review.
+* **CVE-2026-33288** – Security flaw identified during independent research.
+* **CVE-2026-33289** – Security flaw identified during independent research.
+
+---
+
+## 💼 Technical Skills
+
+- **Offensive Security**: Pentesting (Web/Infra), Vulnerability Exploitation, Lateral Movement, Active Directory Attacks.
+- **Defense & Management**: Vulnerability Management, Hardening, Log Analysis.
+- **Cloud & DevSecOps**: Cloud Security and integration of analysis tools (SAST/DAST).
 
 ---
 
@@ -30,34 +40,35 @@ Profissional de Segurança da Informação com forte atuação em Red Team Opera
 
 ---
 
-## 📌 Projetos & Atividades
+## 📌 Projects & Activities
 
-- **Sentinel** –   Plataforma ASM para avaliação de superfície de ataque.
-- **CTFHero** –   Framework para Automação de Atividades de Capture-The-Flag.
-- **Laboratório Red Vs. Blue** – Ambientes dedicados para prática de exploração, desenvolvimento de exploits e análise de segurança.  
-- **Automação de Tarefas em Pentest** – Scripts próprios para facilitar tarefas como enumeração e coleta de evidências.
-
----
-
-## 🎓 Cursos, Certificações & Formação
-- *Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas: Em Andamento*
-- *(ISC)² CC*  
-- *DESEC Security: DCPT | DESEC Certified Penetration Tester*
-- *INE: eJPTv2 | eLearn Security Junior Penetration Tester V2*
-- *CyberWarfare: CRTA |Certified Red Team Analyst*
-- *TheSecOpsGroup: CAPen | Certified APPSEC Pentester*
-- *TheSecOpsGroup: CNSP | Certified Network Security Practitioner*
+- **Sentinel** – ASM Platform for attack surface assessment.
+- **CTFHero** – Framework for automating Capture-The-Flag activities.
+- **Red Vs. Blue Lab** – Dedicated environments for exploitation practice, exploit development, and security analysis.
+- **Pentest Task Automation** – Custom scripts to streamline enumeration and evidence collection.
 
 ---
 
-## 📫 Contato
+## 🎓 Courses, Certifications & Education
+
+- *B.S. in Analysis and Systems Development (In Progress)*
+- *DESEC Security: **DCPT** | DESEC Certified Penetration Tester*
+- *CyberWarfare: **CRTA** | Certified Red Team Analyst*
+- *(ISC)² **CC** | Certified in Cybersecurity*
+- *INE: **eJPTv2** | eLearn Security Junior Penetration Tester V2*
+- *TheSecOpsGroup: **CAPen** | Certified APPSEC Pentester*
+- *TheSecOpsGroup: **CNSP** | Certified Network Security Practitioner*
+
+---
+
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilhermemury/)
-[![Email](https://img.shields.io/badge/Email-Enviar-informational?style=flat-square&logo=gmail)](mailto:gui.mury.gm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Send-informational?style=flat-square&logo=gmail)](mailto:gui.mury.gm@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Kilserv-lightgrey?style=flat-square&logo=google-chrome&logoColor=white)](https://kilserv.vercel.app/)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guilhermemury&style=flat-square" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Guilhermemury&style=flat-square" alt="Profile Views" />
 </p>
